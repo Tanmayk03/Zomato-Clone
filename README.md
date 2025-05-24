@@ -20,7 +20,8 @@ This project replicates the main landing page of Zomato with a search bar, heade
 
 ## 🖼️ Preview
 
-![Screenshot](img/preview.png) <!-- Replace this with your screenshot path -->
+![Screenshot]![Screenshot 2025-05-25 004355](https://github.com/user-attachments/assets/c6730414-98e0-4262-9b8e-90bbca7e4fb1)
+<!-- Replace this with your screenshot path -->
 
 ## 📁 Project Structure
 ├── index.html
